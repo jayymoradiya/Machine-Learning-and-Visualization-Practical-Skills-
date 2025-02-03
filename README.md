@@ -9,6 +9,7 @@ File -> Fraud_Detection.ipynb
 (iv) model_predictions.csv
 
 Synthetic Dataset has been uploaded in google drive due to the size limit was larger (below is the attached google drive link for your reference).
+https://drive.google.com/drive/folders/1gtvB-VwIlgn7AQUuM8W3u7Hdf73-aGRR?usp=sharing
 
 
 Synthetic Dataset insights tableau -> Visualizations.twb
